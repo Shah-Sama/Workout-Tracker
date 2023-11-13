@@ -1,0 +1,15 @@
+{
+  "workout title": "Circuit Name",
+  "exercise": [
+    {
+      "reps": 12,
+      "sets": 3,
+      "name": "Leg Press"
+    },
+    {
+      "reps": 13,
+      "sets": 4,
+      "name": "Calf Raises"
+    }
+  ]
+}
